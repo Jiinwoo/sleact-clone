@@ -2,7 +2,7 @@ import loadable from '@loadable/component';
 import React from 'react';
 import { Redirect, Route, Switch } from 'react-router-dom';
 
-const Workspace = loadable(() => import('@layouts/Workspace'));
+const Workspace = loadable(() => import('@layouts/Channel'));
 const LogIn = loadable(() => import('@pages/LogIn'));
 const SignUp = loadable(() => import('@pages/SignUp'));
 

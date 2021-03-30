@@ -6,6 +6,14 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/nest-typeorm/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/alecture" />
+      <excludeFolder url="file://$MODULE_DIR$/back" />
+      <excludeFolder url="file://$MODULE_DIR$/front" />
+      <excludeFolder url="file://$MODULE_DIR$/front-js" />
+      <excludeFolder url="file://$MODULE_DIR$/multicampus" />
+      <excludeFolder url="file://$MODULE_DIR$/multicampus-back" />
+      <excludeFolder url="file://$MODULE_DIR$/nest-typeorm" />
+      <excludeFolder url="file://$MODULE_DIR$/setting" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
